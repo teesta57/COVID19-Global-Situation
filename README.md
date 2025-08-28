@@ -80,4 +80,56 @@ The dashboard provides a comprehensive and interactive analysis of the COVID-19 
 * **Visuals:** KPI cards, table of cases/tests/deaths per million by country, world map with country hotspots, regional chart of cases per million and deaths per million by WHO region and continent.
 * **Insights:** The snapshot highlights strong disparities across regions, with Europe and the Americas leading in cases per million while the Eastern Mediterranean shows high concentration relative to population. Countries like Qatar, Bahrain, and San Marino display extreme cases-per-million values, but with widely varying mortality rates. Meanwhile, nations such as the USA, Brazil, and Peru reveal both heavy caseloads and high death-per-million ratios, underscoring the uneven global burden. This snapshot allows decision-makers to quickly assess the world’s critical hotspots and regional differences in testing, spread, and mortality.
 
+![Attrition Overview](Previews/ExecutiveSummary.png)
+
+---
+
+## 📂 File Structure
+
+```
+.
+├── Covid19.pbix                     (Power BI report file)
+├── Country-Wise-Latest.csv          (Raw dataset)
+├── Covid-19-Clean-Complete.csv      (Raw dataset)
+├── Day-Wise.csv                     (Raw dataset)
+├── Full-Grouped.csv                 (Raw dataset)
+├── USA-County-Wise.csv              (Raw dataset)
+├── Worldometer-Data.csv             (Raw dataset)
+├── README.md                        (Project documentation)
+└── Previews/                        (Dashboard screenshot images)
+    ├── CountryDeepDive.PNG
+    ├── GlobalSnapshot.PNG
+    ├── LatestWorldometerSnapshot.PNG
+    ├── RegionalWHOInsights.PNG 
+    ├── Trends&Growth.PNG
+    └── USFocus.PNG
+```
+
+---
+
+## ⚙️ Technologies Used
+
+* Microsoft Power BI Desktop
+
+---
+
+## 🚀 How to Use This Project
+
+1. Clone or download the repository:
+
+   ```bash
+   git clone https://github.com/teesta57/IMDB-OTT-Platforms-Movies-And-Series.git
+   ```
+2. Open the `IMDB-OTT-Platforms-Movies-And-Series.pbix` file in Power BI Desktop.
+3. Explore the dashboard and apply filters to interact with the data.
+
+---
+
+## 🤝 Contributing
+
+You're welcome to fork the project, explore the dataset, enhance visualizations, or suggest improvements.
+
+---
+
+
 
