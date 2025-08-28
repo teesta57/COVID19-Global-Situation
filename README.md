@@ -37,6 +37,8 @@ The dashboard provides a comprehensive and interactive analysis of the COVID-19 
 
 ![Global Snapshot](Previews/GlobalSnapshot.PNG)
 
+---
+
 ### 2. Country Deep Dive
 
 * **What it shows:** A detailed breakdown of the pandemic at the continental and country level, highlighting how cases, deaths, and recoveries vary across regions and which countries are most severely affected.
@@ -45,6 +47,8 @@ The dashboard provides a comprehensive and interactive analysis of the COVID-19 
 * **Insights:** This view emphasizes the uneven spread of COVID-19 across the world, showing both continental disparities and specific country hotspots. It helps quickly identify which countries are under the greatest strain and how their outcomes differ, supporting regional and international comparison.
 
 ![Country Deep Dive](Previews/CountryDeepDive.PNG)
+
+---
 
 ### 3. Regional WHO Insights
 
@@ -55,6 +59,8 @@ The dashboard provides a comprehensive and interactive analysis of the COVID-19 
 
 ![Regional WHO Insights](Previews/RegionalWHOInsights.PNG)
 
+---
+
 ### 4. Trends & Growth
 
 * **What it shows:** This page highlights how the pandemic evolved over time, with a focus on new cases, new deaths, and overall growth patterns. It captures the trajectory of the virus month by month and tracks how confirmed, active, recovered, and death counts shifted across WHO regions.
@@ -64,6 +70,8 @@ The dashboard provides a comprehensive and interactive analysis of the COVID-19 
 
 ![Trends & Growth](Previews/Trends&Growth.PNG)
 
+---
+
 ### 5. US Focus (County/State)
 
 * **What it shows:** This page dives deep into the US pandemic situation, highlighting confirmed cases and death counts across states and counties. It spotlights where the outbreak has been most severe and which regions have recorded the highest loss of life.
@@ -72,6 +80,8 @@ The dashboard provides a comprehensive and interactive analysis of the COVID-19 
 * **Insights:** The page reveals that New York leads both in confirmed cases and deaths, with counties like New York, Nassau, and Suffolk dominating the list of hardest-hit regions. States such as New Jersey and Michigan also emerge with significant death tolls, while populous counties like Los Angeles and Cook further highlight urban vulnerability. This breakdown underscores the geographic concentration of the crisis in major metropolitan areas and the regional disparities in impact across the country.
 
 ![US Focus](Previews/USFocus.PNG)
+
+---
 
 ### 6. Latest Worldometer Snapshot
 
