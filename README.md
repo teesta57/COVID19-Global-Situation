@@ -123,6 +123,14 @@ The dashboard provides a comprehensive and interactive analysis of the COVID-19 
 
 ---
 
+## 📊 Data Source
+
+* **Dataset Name:** COVID-19 Dataset
+* **Source:** Kaggle
+* **Link:** [https://www.kaggle.com/datasets/imdevskp/corona-virus-report](https://www.kaggle.com/datasets/imdevskp/corona-virus-report)
+
+---
+
 ## 🚀 How to Use This Project
 
 1. Clone or download the repository:
