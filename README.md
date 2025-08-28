@@ -35,7 +35,7 @@ The dashboard provides a comprehensive and interactive analysis of the COVID-19 
 * **Visuals:** KPI cards for totals + ratios (Death %, Recovery %), Line chart of confirmed, deaths, recoveries over time, Pie chart of new cases vs deaths vs recoveries, Map showing confirmed cases by country & WHO region, Date range slicer for timeline analysis.
 * **Insights:** Provides a global-level snapshot of the pandemic’s spread and impact. Helps identify worldwide growth patterns, daily dynamics, and regional hotspots, enabling a quick understanding of overall pandemic status.
 
-![Global Snapshot](Previews/GlobalSnapshot.png)
+![Global Snapshot](Previews/GlobalSnapshot.PNG)
 
 ### 2. Country Deep Dive
 
@@ -44,7 +44,7 @@ The dashboard provides a comprehensive and interactive analysis of the COVID-19 
 * **Visuals:** KPI cards for global totals, Scatter plot comparing continent-wise cases, deaths & population, Bar chart for Top 10 countries (Active vs Deaths proportion), Trend line for confirmed, deaths, recoveries progression.
 * **Insights:** This view emphasizes the uneven spread of COVID-19 across the world, showing both continental disparities and specific country hotspots. It helps quickly identify which countries are under the greatest strain and how their outcomes differ, supporting regional and international comparison.
 
-![Country Deep Dive](Previews/CountryDeepDive.png)
+![Country Deep Dive](Previews/CountryDeepDive.PNG)
 
 ### 3. Regional WHO Insights
 
@@ -53,7 +53,7 @@ The dashboard provides a comprehensive and interactive analysis of the COVID-19 
 * **Visuals:** Interactive map plotting active cases by geography, Donut chart of new cases vs new deaths vs new recoveries, Bar chart of total cases across WHO regions, Comparative bar (Recoveries vs Deaths by region).
 * **Insights:** This page uncovers how regions vary in both spread and recovery, illustrating where new infections are accelerating, where recovery efforts are strong, and which areas continue to struggle with high mortality. It enables comparisons across WHO regions, providing a balanced view of pandemic intensity and healthcare response effectiveness.
 
-![Regional WHO Insights](Previews/RegionalWHOInsights.png)
+![Regional WHO Insights](Previews/RegionalWHOInsights.PNG)
 
 ### 4. Trends & Growth
 
@@ -62,7 +62,7 @@ The dashboard provides a comprehensive and interactive analysis of the COVID-19 
 * **Visuals:** Line charts tracking new cases & deaths over time, Trend curves (Confirmed vs Recovered vs Deaths by WHO region), Bar charts of weekly growth rate leaders by country, Quarterly plots for Recovery %, Case growth %, Death %.
 * **Insights:** This page reveals where surges happened, which countries faced the fastest weekly growth, and how recovery rates evolved relative to death and case growth. It highlights hotspots with alarming acceleration, such as Papua New Guinea and Gambia, while also underscoring strong recovery patterns in certain regions. The quarter-wise perspective shows whether regions are stabilizing, improving, or facing repeated waves, making it critical for identifying both risks and areas of resilience.
 
-![Trends & Growth](Previews/Trends&Growth.png)
+![Trends & Growth](Previews/Trends&Growth.PNG)
 
 ### 5. US Focus (County/State)
 
@@ -71,7 +71,7 @@ The dashboard provides a comprehensive and interactive analysis of the COVID-19 
 * **Visuals:** An interactive US map displays confirmed cases by province/state, a trend chart highlights the top five states with the highest death counts over time, and a detailed table lists county-level breakdowns of confirmed cases and deaths with totals aggregated.
 * **Insights:** The page reveals that New York leads both in confirmed cases and deaths, with counties like New York, Nassau, and Suffolk dominating the list of hardest-hit regions. States such as New Jersey and Michigan also emerge with significant death tolls, while populous counties like Los Angeles and Cook further highlight urban vulnerability. This breakdown underscores the geographic concentration of the crisis in major metropolitan areas and the regional disparities in impact across the country.
 
-![US Focus](Previews/USFocus.png)
+![US Focus](Previews/USFocus.PNG)
 
 ### 6. Latest Worldometer Snapshot
 
@@ -80,7 +80,7 @@ The dashboard provides a comprehensive and interactive analysis of the COVID-19 
 * **Visuals:** KPI cards, table of cases/tests/deaths per million by country, world map with country hotspots, regional chart of cases per million and deaths per million by WHO region and continent.
 * **Insights:** The snapshot highlights strong disparities across regions, with Europe and the Americas leading in cases per million while the Eastern Mediterranean shows high concentration relative to population. Countries like Qatar, Bahrain, and San Marino display extreme cases-per-million values, but with widely varying mortality rates. Meanwhile, nations such as the USA, Brazil, and Peru reveal both heavy caseloads and high death-per-million ratios, underscoring the uneven global burden. This snapshot allows decision-makers to quickly assess the world’s critical hotspots and regional differences in testing, spread, and mortality.
 
-![Latest Worldometer Snapshot](Previews/LatestWorldometerSnapshot.png)
+![Latest Worldometer Snapshot](Previews/LatestWorldometerSnapshot.PNG)
 
 ---
 
