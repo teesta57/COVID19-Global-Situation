@@ -88,7 +88,7 @@ The dashboard provides a comprehensive and interactive analysis of the COVID-19 
 
 ```
 .
-├── Covid19.pbix                     (Power BI report file)
+├── COVID19-Global-Situation.pbix    (Power BI report file)
 ├── Country-Wise-Latest.csv          (Raw dataset)
 ├── Covid-19-Clean-Complete.csv      (Raw dataset)
 ├── Day-Wise.csv                     (Raw dataset)
@@ -118,9 +118,9 @@ The dashboard provides a comprehensive and interactive analysis of the COVID-19 
 1. Clone or download the repository:
 
    ```bash
-   git clone https://github.com/teesta57/IMDB-OTT-Platforms-Movies-And-Series.git
+   git clone https://github.com/teesta57/COVID19-Global-Situation.git
    ```
-2. Open the `IMDB-OTT-Platforms-Movies-And-Series.pbix` file in Power BI Desktop.
+2. Open the `COVID19-Global-Situation.pbix` file in Power BI Desktop.
 3. Explore the dashboard and apply filters to interact with the data.
 
 ---
